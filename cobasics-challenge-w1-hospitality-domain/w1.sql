@@ -1,1 +1,0 @@
-UPDATE hos.fact_bookings SET ratings_given=0 WHERE ratings_given=''
